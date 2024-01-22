@@ -1,9 +1,10 @@
 # Sequence_Classification
-How to replicate the model implementation:
+Using BERT model from Hugging face library for classification of tweets into 9 different lables.
 
-- Upliod the .ipynb file into Google Collab noteboook
+To replicate the model
+- Upload the .ipynb file into Google Collab noteboook
 - Upload the app.py file
-- Upload the original provided dataset .xlsx file
+- Upload the original provided dataset .xlsx file or use your own data set with minor code changes. 
 - Change runtime from CPU to GPU
 - Run all (approx runtime 10 mins on GPU)
 - Use the resultant link to access the streamlit application
